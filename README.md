@@ -50,5 +50,5 @@ Prohlédněte si interaktivní demo projektu zde:
 
 ---
 
-© 2024 LegacyGuard  
+© 2025 LegacyGuard  
 *Digital Legacy Secured*
